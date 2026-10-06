@@ -6,7 +6,7 @@ A personal learning repository for system design — built hands-on, one topic a
 
 ## Who this is for
 
-This repo belongs to **Raj** — a platform engineer with two years of professional experience at **Elanco** (a subsidiary of Eli Lilly Corporation). Raj has solid software engineering skills but is approaching system design formally for the first time: no prior courses, no textbooks, just learning by doing.
+This repo belongs to **Raj** — a platform engineer with two years of professional experience. Raj has solid software engineering skills but is approaching system design formally for the first time: no prior courses, no textbooks, just learning by doing.
 
 ---
 
@@ -55,19 +55,19 @@ Folders will be created as topics are covered. The numbering reflects a rough le
 
 ## Progress
 
-| Topic | Status |
-|-------|--------|
-| Fundamentals | Not started |
-| Networking basics | Not started |
-| Databases | Not started |
-| Caching | Not started |
-| Message queues | Not started |
-| Load balancing | Not started |
-| Storage systems | Not started |
-| Distributed systems | Not started |
-| API design | Not started |
+| Topic                          | Status      |
+| ------------------------------ | ----------- |
+| Fundamentals                   | Not started |
+| Networking basics              | Not started |
+| Databases                      | Not started |
+| Caching                        | Not started |
+| Message queues                 | Not started |
+| Load balancing                 | Not started |
+| Storage systems                | Not started |
+| Distributed systems            | Not started |
+| API design                     | Not started |
 | Real-world system walkthroughs | Not started |
-| Interview prep | Not started |
+| Interview prep                 | Not started |
 
 ---
 
