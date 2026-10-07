@@ -57,14 +57,9 @@ Folders will be created as topics are covered. The numbering reflects a rough le
 
 | Topic                          | Status      |
 | ------------------------------ | ----------- |
-| Fundamentals                   | Not started |
-| Networking basics              | Not started |
-| Databases                      | Not started |
-| Caching                        | Not started |
-| Message queues                 | Not started |
-| Load balancing                 | Not started |
-| Storage systems                | Not started |
-| Distributed systems            | Not started |
+| Fundamentals                   | ✅ Complete |
+| Core building blocks           | In progress |
+| Distributed systems concepts   | Not started |
 | API design                     | Not started |
 | Real-world system walkthroughs | Not started |
 | Interview prep                 | Not started |
